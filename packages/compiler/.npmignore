@@ -1,0 +1,4 @@
+.idea/
+coverage/
+__tests__/code-generation/tmp/
+tools/
